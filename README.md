@@ -8,3 +8,5 @@ How to run the model:
 5. run the model at the end of the script
 
 The model output will be stored in the output folder. The script "NBESProcessOutput.R" can be used to process and summarise the simulation results for further analysis. The file names for reading/writing have to be adjusted accordingly.
+
+Simulated data are archieved on Zenodo: 10.5281/zenodo.15274626
